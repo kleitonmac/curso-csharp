@@ -1,0 +1,4 @@
+C:\Users\conta\source\repos\CursoCSharp\obj\Release\net10.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\source\repos\CursoCSharp\obj\Release\net10.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\conta\source\repos\CursoCSharp\obj\Release\net10.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\conta\source\repos\CursoCSharp\obj\Release\net10.0\CursoCSharp.csproj.CoreCompileInputs.cache

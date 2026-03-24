@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CursoCSharp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

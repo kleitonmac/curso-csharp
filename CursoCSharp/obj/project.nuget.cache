@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVtzFk7T9Gc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conta\\source\\repos\\CursoCSharp\\CursoCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conta\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
