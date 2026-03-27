@@ -8,7 +8,7 @@ using System.IO;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 using CursoCSharp.EstruturasDeControle;
-
+using CursoCSharp.MetodosEFuncoes;
 namespace CursoCSharp.Fundamentos
 {
     class Program
@@ -68,6 +68,11 @@ namespace CursoCSharp.Fundamentos
                 ("Orientação a Objeto - Polimorfismo", CursoCSharp.OO.Polimorfismo.Executar),
                 ("Orientação a Objeto - Classes Abstract", CursoCSharp.OO.Abstract.Executar),
                 ("Orientação a Objeto - Classes Sealed", CursoCSharp.OO.Sealed.Executar),
+                ("Orientação a Objeto - Interface", CursoCSharp.OO.Interface.Executar),
+
+                // Metodos e Funcoees
+                ("Metodos e Funçoes Lambda - Lambda", CursoCSharp.MetodosEFuncoes.ExemploLambda.Executar),
+                ("Metodos e Funçoes Lambda - Usando Delegate", CursoCSharp.MetodosEFuncoes.UsandoDelegate.Executar),
             };
 
             // Executa cada tarefa, mostrando o texto no console
